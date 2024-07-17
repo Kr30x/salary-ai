@@ -1,0 +1,4 @@
+venv
+webserver/node_modules
+postings.csv
+webserver/.next
